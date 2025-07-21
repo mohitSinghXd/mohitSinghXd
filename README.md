@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Mohit Singh
 
 🚀 A passionate Web Developer who loves turning ideas into real-world products.  
-🛠️ Currently exploring the **MERN stack**, and diving deeper into backend + cloud hosting.
+🛠️ Currently exploring the **MERN stack**, and diving deeper into backend + cloud.
 
 ---
 

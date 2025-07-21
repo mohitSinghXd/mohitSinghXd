@@ -9,8 +9,7 @@
 - ⚛️ React.js
 - 🧩 Express & Node.js
 - 🌱 MongoDB
-- 📦 Git & GitHub
-- 🎨 CSS + Responsive UI
+
 
 ---
 
@@ -22,7 +21,6 @@
 
 ### 💡 A bit about me:
 - 🕹️ I enjoy solving problems through code
-- ✍️ Learning GitHub, APIs, hosting, and more
 - 📚 Believer in *“Consistency beats talent.”*
 
 
